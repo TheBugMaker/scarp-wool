@@ -33,7 +33,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 poetry install
 ```
 
-4. Set up your OpenAI API key:
+4. Set up your Open Router API key:
 ```bash
 export OPENROUTER_API_KEY="your-api-key-here"
 ```
